@@ -2,7 +2,7 @@
 
 ## 👋 Welcome
 
-I'm **Badr**, a curious and passionate software developer. I enjoy building full-stack applications, learning how machines think, and exploring what’s possible with just code and imagination. Whether it's low-level logic or high-level frameworks — I love it all.
+I'm **Badr**, a curious and passionate software developer. I enjoy building full-stack applications, learning how machines work, and exploring what’s possible with just code and imagination. Whether it's low-level logic or high-level frameworks — I love it all.
 
 ---
 
